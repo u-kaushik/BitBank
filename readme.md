@@ -2,6 +2,8 @@ Project
 
 A personal finance app that allows you to send to other users as well as deposit and withdraw from your existing balance.
 
+https://u-kaushik.github.io/BitBank/
+
 Technologies Used
 
 - HTML
